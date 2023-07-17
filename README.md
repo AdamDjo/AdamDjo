@@ -1,6 +1,6 @@
 ![MasterHead](https://ph-files.imgix.net/e849cdf1-2a0a-4c5f-bd0f-66d49b866fa0.gif?auto=format&fit=crop)
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A passionate frontend & Blockchain developer</h3>
+<h3 align="center">a passionate Front-End Developer focused on Vue.js</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dj0k3rs&label=Profile%20views&color=0e75b6&style=flat" alt="dj0k3rs" /> </p>
@@ -15,7 +15,22 @@
 
 - 📫 How to reach me **adambenmessaoud2@gmail.com**
 
-- ⚡ Fun fact **Dapps Solana / ETH / POLYGON**
+💼 Key Skills:
+- Vue.js: Advanced proficiency, creating modern and dynamic web applications with excellent performance.
+- HTML5/CSS3: Expertise in crafting responsive layouts for cross-platform compatibility and optimal user experience.
+- JavaScript: Mastered the fundamentals, along with popular libraries like Vuex, Vue Router, and Axios.
+- Frameworks and Libraries: Experienced with Bootstrap, Tailwind CSS, and Bulma for faster development.
+- UX/UI: In-depth knowledge of UX/UI design principles, transforming mockups into attractive interfaces.
+
+
+🌱 Lifelong Learner:
+-  I stay updated with the latest Front-End trends and technologies, seeking new challenges to enhance my skills.
+
+📈 Open to Opportunities:
+- Passionate about contributing to projects and organizations, I'm open to new opportunities for growth and success.
+
+📫 Let's Connect:
+-  Looking for a passionate, creative, and results-driven Front-End Developer with expertise in Vue.js? Let's connect and discuss your projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +41,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://v3.vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://vuejs.org/images/logo.png" alt="Vue.js 3" width="40" height="40" />
+</a>
+<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40" />
+</a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank"
     rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
@@ -50,7 +71,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="40" height="40" /> </a> </p>
+            width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
+</a></p>
 
 
 <p><a href="https://adamben.netlify.app/">Portfolio</a></p>
