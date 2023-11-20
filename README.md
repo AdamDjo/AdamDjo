@@ -1,4 +1,4 @@
-![MasterHead](https://ph-files.imgix.net/e849cdf1-2a0a-4c5f-bd0f-66d49b866fa0.gif?auto=format&fit=crop)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">a passionate Front-End Developer focused on Vue.js</h3>
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **adambenmessaoud2@gmail.com**
 
 💼 Key Skills:
-- Vue.js: Advanced proficiency, creating modern and dynamic web applications with excellent performance.
+- React (Next) / Vue (Nuxt): Advanced proficiency, creating modern and dynamic web applications with excellent performance.
 - HTML5/CSS3: Expertise in crafting responsive layouts for cross-platform compatibility and optimal user experience.
 - JavaScript: Mastered the fundamentals, along with popular libraries like Vuex, Vue Router, and Axios.
 - Frameworks and Libraries: Experienced with Bootstrap, Tailwind CSS, and Bulma for faster development.
@@ -30,22 +30,21 @@
 - Passionate about contributing to projects and organizations, I'm open to new opportunities for growth and success.
 
 📫 Let's Connect:
--  Looking for a passionate, creative, and results-driven Front-End Developer with expertise in Vue.js? Let's connect and discuss your projects!
+-  Looking for a passionate, creative, and results-driven Front-End Developer with expertise? Let's connect and discuss your projects!
+-   <p><a href="https://adamben.netlify.app/">Portfolio</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kinggangtv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kinggangtv" height="30" width="40" /></a>
   <a href="https://www.fiverr.com/adam238?up_rollout=true" target="blank"><img align="center" src="https://img.icons8.com/color/344/fiverr.png" alt="kinggangtv" height="50" width="50" /></a>
    <a href="https://adamben.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/office/344/sony-vegas.png" alt="portfolio adam" height="50" width="50" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <a href="https://v3.vuejs.org/" target="_blank" rel="noreferrer">
   <img src="https://vuejs.org/images/logo.png" alt="Vue.js 3" width="40" height="40" />
-</a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40" />
 </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank"
@@ -63,11 +62,7 @@
             alt="javascript" width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"
-        rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
-            width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+            width="40" height="40" /> </a>  </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
@@ -75,5 +70,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
 </a></p>
 
+-   <p><a href="https://adamben.netlify.app/">Portfolio</a></p>
 
-<p><a href="https://adamben.netlify.app/">Portfolio</a></p>
