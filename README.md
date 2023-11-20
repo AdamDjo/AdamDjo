@@ -1,6 +1,6 @@
 ![MasterHead]()
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">a passionate Front-End Developer focused on Vue.js</h3>
+<h3 align="center">a passionate Front-End Developer focused on React & Vue</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dj0k3rs&label=Profile%20views&color=0e75b6&style=flat" alt="dj0k3rs" /> </p>
