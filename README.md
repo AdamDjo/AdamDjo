@@ -10,8 +10,9 @@
 
 - 💬 Ask me about **FrontEnd/ ReactJs / NextJs / Landing page**
 
-- 📫 How to reach me **adambenmessaoud2@gmail.com** or on my <p><a href="https://adamben.netlify.app/">*Portfolio*</a></p>
+- 📫 How to reach me **adambenmessaoud2@gmail.com**  
 
+- 📫 Visit my Portfolio to see samples of my personal projects <a href="https://adamben.netlify.app/">*Portfolio*</a>
 
 💼 Key Skills:
 - React (Next) / Vue (Nuxt): Advanced proficiency, creating modern and dynamic web applications with excellent performance.
