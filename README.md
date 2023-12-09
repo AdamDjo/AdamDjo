@@ -8,19 +8,17 @@
 
 - 🔭 I’m currently working on Fiver / Upwork **https://www.fiverr.com/adam238?up_rollout=true**
 
-- 🌱 I’m currently learning **Solidity, Solana Smart-contract**
+- 💬 Ask me about **FrontEnd/ ReactJs / NextJs / Landing page**
 
-- 💬 Ask me about **Generation / Art / NFTs / Smart Contract / Landing page**
+- 📫 How to reach me **adambenmessaoud2@gmail.com** or on my <p><a href="https://adamben.netlify.app/">*Portfolio*</a></p>
 
-- 📫 How to reach me **adambenmessaoud2@gmail.com**
 
 💼 Key Skills:
 - React (Next) / Vue (Nuxt): Advanced proficiency, creating modern and dynamic web applications with excellent performance.
 - HTML5/CSS3: Expertise in crafting responsive layouts for cross-platform compatibility and optimal user experience.
 - JavaScript: Mastered the fundamentals, along with popular libraries like Vuex, Vue Router, and Axios.
-- Frameworks and Libraries: Experienced with Bootstrap, Tailwind CSS, and Bulma for faster development.
+- Frameworks and Libraries: Experienced with Bootstrap, Tailwind CSS, and SCSS for faster development.
 - UX/UI: In-depth knowledge of UX/UI design principles, transforming mockups into attractive interfaces.
-
 
 🌱 Lifelong Learner:
 -  I stay updated with the latest Front-End trends and technologies, seeking new challenges to enhance my skills.
@@ -69,5 +67,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
 </a></p>
 
--   <p><a href="https://adamben.netlify.app/">Portfolio</a></p>
 
