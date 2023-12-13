@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dj0k3rs&label=Profile%20views&color=0e75b6&style=flat" alt="dj0k3rs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kinggangtv" target="blank"><img src="https://img.shields.io/twitter/follow/kinggangtv?logo=twitter&style=for-the-badge" alt="kinggangtv" /></a> </p>
 
 - 🔭 I’m currently working on Fiver / Upwork **https://www.fiverr.com/adam238?up_rollout=true**
 
